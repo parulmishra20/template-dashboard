@@ -8,7 +8,7 @@ import { NgModule, Component, ViewChild } from "@angular/core";
 export class AppComponent {
   infoCards = [
     { name: "No of Tickets open", value: "10" },
-    { name: "No of Tickets Resolved", value: "20" },
+    { name: "No of Tickets Resolved", value: "200" },
     { name: "No of Tickets In Progress", value: "30" }
   ];
   contentCards = [
